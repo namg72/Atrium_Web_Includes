@@ -1,0 +1,78 @@
+    nav {
+        margin-bottom: 35px;
+    }
+    
+    .formulario {
+        width: 60%;
+        background-color: #F2F3F4;
+        padding: 5%;
+        position: relative;
+        margin-bottom: 2000px;
+    }
+    /* con :nth-child(n) podemos seleccionar el hijo con numero que indiquemo*/
+    
+    .formulario :nth-child(2) {
+        font-style: italic;
+        font-size: small;
+    }
+    
+    form {
+        width: 80%;
+        display: inline-block;
+    }
+    
+    form label {
+        display: block;
+        font-style: italic;
+        font-size: 10pt;
+        margin-top: 20px;
+    }
+    
+    form textarea {
+        height: 10em;
+        width: 400px;
+        padding: 2%;
+    }
+    
+    form input {
+        width: 300px;
+    }
+    
+    form button {
+        width: 100px;
+        height: 30px;
+        font-size: 20px;
+        border-radius: 2px;
+    }
+    
+    .aceptarForm {
+        color: red;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+    
+    .ocultar {
+        display: none;
+    }
+    
+    #checkForm {
+        float: left;
+        width: 13px;
+        margin-right: 5px;
+    }
+    
+    aside {
+        font-style: italic;
+        font-size: small;
+        margin-bottom: 20px;
+    }
+    
+    .mapas {
+        width: 400px;
+        height: 250px;
+        position: absolute;
+        margin-top: -620px;
+        margin-left: 450px;
+        padding: 15px;
+        text-align: center;
+    }

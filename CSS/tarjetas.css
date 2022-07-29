@@ -1,0 +1,49 @@
+    .tarjetas {
+        width: 75%;
+        margin: auto;
+        display: grid;
+        padding: 50px;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-column-gap: 15px;
+        grid-row-gap: 15px;
+        justify-items: center;
+    }
+    
+    .tarjetas>div {
+        margin-top: 50px;
+        height: 440px;
+        box-shadow: 2px 4px 5px 0px rgba(0, 0, 0, 0.75);
+        border-radius: 7px 7px 7px 7px;
+        transition: all 0.3s ease;
+        cursor: pointer;
+    }
+    
+    .cardsImg {
+        object-fit: cover;
+        width: 100%;
+        height: 45%;
+    }
+    
+    .tarjetas>div:hover {
+        margin-top: -0.2px;
+        margin-left: 1px;
+        box-shadow: 7px 7px 9px -1px rgba(0, 0, 0, 0.65);
+    }
+    
+    .tarjetas header {
+        color: darkblue;
+        margin: 20px;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    
+    .tarjetas h2 {
+        padding: 30px;
+        text-align: center;
+    }
+    
+    .tarjetas li {
+        text-decoration: none;
+        margin-left: 50px;
+        text-decoration: none;
+    }

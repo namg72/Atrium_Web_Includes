@@ -1,0 +1,45 @@
+.portada_foto {
+    display: block;
+    width: 100%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.galeria {
+    width: 80%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid red;
+}
+
+.galeria img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+
+/* Codigo para pasar la galeria manualmente 
+
+ .fa-angle-right {
+    display: inline-block;
+    position: relative;
+    left: 100%;
+    margin: -80px;
+    top: -200px;
+    color: red;
+    cursor: pointer;
+}
+
+.fa-angle-left {
+    display: inline-block;
+    position: relative;
+    right: 0%;
+    margin: 20px;
+    top: -200px;
+    color: red;
+    cursor: pointer;
+} */
