@@ -23,7 +23,7 @@
 
     <div   div class="productos">
 
-    <h1>LIMPIEZA</h1>
+    <h1>LIMPIEZA INDUSTRIAL/h1>
         <p>Aqui en un futuro recataremos aritculos de la bd</p>
 
 
