@@ -36,7 +36,7 @@
                 <p>
 
                     Entre nuestros clientes se encuentran Museos, Teatros, y establecimientos historicos del centro de Madrid, de los que por desgracia como en nuestro caso cada vez van quedando menos abiertos. Por diversos motivos tuvimos que cerrar la venta al menor, donde
-                    eramos un referente en el barrio y trasladar nuestra acitivad a las distribución a nuestro clientes de gran consumo.
+                    eramos un referente en el barrio y trasladar nuestra acitivad a las distribución a nuestros clientes de gran consumo.
                 </p>
                 <p>
                     Para cuaquier información sobre productos o servicios que precise no dude en ponerse en contacto con nosotros y estaremos encantados de atenderle.
