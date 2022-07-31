@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="CSS/estilos.css">
     <link rel="stylesheet" href="CSS/galeria.css">
     <link rel="stylesheet" href="CSS/tarjetas.css">
+    <!-- enlace fontaweson -->
+    <script src="https://kit.fontawesome.com/45730bc152.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -25,12 +27,7 @@
         <div class="galeria">
 
             <img id="fotoPortada" src="imagenes/images-1.jpg" class="portada_foto " alt="drogueria Dionsio garcia " title="dionisio garcia ">
-            <!-- 
-                botones para el slider manual
-                
-            <i id="left_Arrow" class=" fa-solid fa-angle-left "></i>
-            <i id="right_Arrow" class="fa-solid fa-angle-right "></i>
-            -->
+           
         </div>
           <div class="tarjetas">
 
@@ -77,6 +74,7 @@
 
             </div>
         </div>
+       
        
      <!-- Include del footer--> 
      <?php
