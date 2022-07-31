@@ -14,10 +14,10 @@
 
          <p>Comparte:</p>
          
-         <a href="https://www.facebook.com/sharer/sharer.php?u=https://espai.es" target="_blank"><i class="fa-brands fa-square-facebook"></i></a>
-        <a href="https://twitter.com/intent/tweet?text=[text]&url=[url]&hashtags=[hashtag]"target="_blank"><i class="fa-brands fa-square-twitter"></i></a>
-        <a href="https://api.whatsapp.com/send?text=escola%20inform%C3%A1tica%20i%20disseny%20https://espai.es"target="_blank"><i class="fa-brands fa-square-whatsapp"></i></a>
-         <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://espai.es" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+         <a href="https://www.facebook.com/sharer/sharer.php?u=https://dionisiogarcia.com" target="_blank"><i class="fa-brands fa-square-facebook fa-xl" ></i></a>
+        <a href="https://twitter.com/intent/tweet?text=[text]&url=[url]&hashtags=[hashtag]"target="_blank"><i class="fa-brands fa-square-twitter fa-xl""></i></a>
+        <a href="https://api.whatsapp.com/send?text=escola%20inform%C3%A1tica%20i%20disseny%20https://dinisiogarcia.com"target="_blank"><i class="fa-brands fa-square-whatsapp fa-xl""></i></a>
+         <a href="https://www.linkedin.com/sharing/share-offsite/?url=dionisiogarcia.com target="_blank"><i class="fa-brands fa-linkedin fa-xl"></i></a>
         
                     
     </div>

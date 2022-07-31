@@ -74,11 +74,12 @@
                     
                     .compartir p {
                         display: inline-block;
-                        margin-right: 2rem;
+                        margin-right: 1rem;
                     }
                     
                     .compartir i {
                         size: 2rem;
+                        padding: 3px;
                     }
                     
                     .videos {

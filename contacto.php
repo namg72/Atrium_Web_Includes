@@ -8,6 +8,8 @@
     <title>Dionisio Gacía</title>
     <link rel="stylesheet" href="CSS/estilos.css">
     <link rel="stylesheet" href="CSS/formulario.css">
+     <!-- enlace fontaweson -->
+     <script src="https://kit.fontawesome.com/45730bc152.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
