@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <div class="contenedor">
+    < class="contenedor">
     <?php
             include "includes/header.php";
             include "includes/nav.php";
@@ -58,26 +58,22 @@
                 </div>
             </div>
 
-         <!-- Include del footer--> 
-        <?php
+         
+            <!-- Include del footer--> 
+            <?php
             include "includes/footer.php";
-        ?>
-
-
-    </div>
+            ?>
+    
 
 
         </div>
 
 
-         <!-- Include del footer--> 
-     <?php
-            include "includes/footer.php";
-        ?>
+     
 
 
 
-    </div>
+    
 
     <script src="js/script.js "></script>
     <script src="js/enlaces.js "></script>

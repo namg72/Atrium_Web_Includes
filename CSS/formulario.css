@@ -4,10 +4,10 @@
     
     .formulario {
         width: 60%;
+        margin: auto;
         background-color: #F2F3F4;
         padding: 5%;
         position: relative;
-        margin-bottom: 2000px;
     }
     /* con :nth-child(n) podemos seleccionar el hijo con numero que indiquemo*/
     
