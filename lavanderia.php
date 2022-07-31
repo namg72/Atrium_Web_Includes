@@ -23,7 +23,7 @@
 
     <div class="productos">
     <h1>LAVANDERIA</h1>
-        <p>Aqui en un futuro recataremos aritculos de la bd</p>
+        <p>Aqui en un futuro recataremos los aritculos de la bd</p>
 
 
     </div>
