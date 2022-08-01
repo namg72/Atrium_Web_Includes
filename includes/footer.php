@@ -21,7 +21,7 @@
                     
         </div>
         <div class="sello">
-             <img src="imagenes/SelloEcolabel.png" alt="">
+        <a href="https://iso.cat/es/ecolabel-o-etiqueta-ecologica/" target="blank"> <img src="imagenes/SelloEcolabel.png" alt="sello ecolabel"></a> 
 
         </div>
 

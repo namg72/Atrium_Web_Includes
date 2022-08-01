@@ -13,12 +13,12 @@
 </head>
 
 <body>
-    < class="contenedor">
-    <?php
+    <div class="contenedor">
+            <?php
             include "includes/header.php";
             include "includes/nav.php";
              
-        ?>
+             ?>
 
             <div class="videos">
                 <div>
