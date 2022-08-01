@@ -1,6 +1,6 @@
 <footer>
 
-    <div class="datos">
+        <div class="datos">
        <p>Dionisio Garcia, SL</p>
        <p>Calle AC/DC 69</p>
         <p>28914 Leganes</p>
@@ -8,10 +8,9 @@
          <p>913 456 334</p>
           <a href="mailto:dionisoGarcia@mimail.com">dionisoGarcia@mimail.com</a>
                     
-    </div>    
+        </div>    
     
-    <div class="compartir">
-
+         <div class="compartir">
          <p>Comparte:</p>
          
          <a href="https://www.facebook.com/sharer/sharer.php?u=https://dionisiogarcia.com" target="_blank"><i class="fa-brands fa-square-facebook fa-xl" ></i></a>
@@ -20,12 +19,13 @@
          <a href="https://www.linkedin.com/sharing/share-offsite/?url=dionisiogarcia.com target="_blank"><i class="fa-brands fa-linkedin fa-xl"></i></a>
         
                     
-    </div>
+        </div>
+        <div class="sello">
+             <img src="imagenes/SelloEcolabel.png" alt="">
 
+        </div>
 
-
-    </div>
+    
             
         
-
 </footer>
